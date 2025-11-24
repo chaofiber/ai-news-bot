@@ -1,0 +1,330 @@
+[
+  {
+    "title": "AWS is spending $50B build\u00a0AI infrastructure for the US government",
+    "link": "https://techcrunch.com/2025/11/24/aws-is-spending-50b-build-ai-infrastructure-for-the-us-government/",
+    "published": "2025-11-24 11:10 UTC",
+    "summary": "",
+    "author": "TechCrunch",
+    "time_ago": "56 minutes ago",
+    "ai_summary": "AWS is investing $50 billion to build dedicated AI infrastructure for the U.S. government, aiming to expand federal agencies' access to advanced AI capabilities and accelerate critical missions. This project will add 1.3 gigawatts of compute and expand government access to AWS AI services and third party models like Anthropic's Claude, breaking ground in 2026.",
+    "key_points": [
+      "AWS is investing $50 billion in AI \"high-performance computing infrastructure\" specifically for the U.S. government.",
+      "The buildout will expand federal government agencies' access to AWS AI services like Amazon SageMaker, Amazon Bedrock, and Anthropic's Claude.",
+      "The project will add 1.3 gigawatts of compute and aims to accelerate critical government missions, such as cybersecurity and drug discovery.",
+      "AWS expects to begin construction on the data center projects in 2026.",
+      "Other tech giants like OpenAI, Anthropic, and Google have also been pitching AI services to the U.S. government, sometimes at heavily discounted rates."
+    ],
+    "significance": "This signals a major investment and increased competition among tech giants to secure lucrative government contracts in the burgeoning AI sector.",
+    "content_length": 3084
+  },
+  {
+    "title": "Anthropic releases Opus 4.5 with new Chrome and Excel integrations",
+    "link": "https://techcrunch.com/2025/11/24/anthropic-releases-opus-4-5-with-new-chrome-and-excel-integrations/",
+    "published": "2025-11-24 11:08 UTC",
+    "summary": "",
+    "author": "TechCrunch",
+    "time_ago": "58 minutes ago",
+    "ai_summary": "Anthropic has released Opus 4.5, the final model in their 4.5 series, boasting state-of-the-art performance, particularly in coding and tool use. The release includes broader availability of Claude for Chrome and Excel, enhanced memory management for long-context operations including an \u201cendless chat\u201d feature, and improvements aimed at supporting agentic use-cases.",
+    "key_points": [
+      "Anthropic released Opus 4.5, the latest and final model in their 4.5 series, with top-tier performance across coding, tool use, and general problem-solving benchmarks, notably exceeding 80% on the SWE-Bench verified coding benchmark.",
+      "Opus 4.5 emphasizes computer use and spreadsheet capabilities, coinciding with wider availability of the Claude for Chrome and Claude for Excel products.",
+      "Significant memory improvements enable long-context operations, facilitating an \"endless chat\" feature for paid Claude users.",
+      "The upgrades target agentic use-cases, allowing Opus to effectively manage and command sub-agents for complex tasks.",
+      "Opus 4.5 enters a competitive market against recently released models like OpenAI's GPT 5.1 and Google's Gemini 3."
+    ],
+    "significance": "The release of Opus 4.5 underscores the intensifying competition in the frontier AI model space, pushing the boundaries of AI capabilities in coding, tool use, and long-context understanding, ultimately driving innovation and setting new performance standards for the industry.",
+    "content_length": 3195
+  },
+  {
+    "title": "X-energy rides nuclear wave, raises $700M Series D",
+    "link": "https://techcrunch.com/2025/11/24/x-energy-rides-nuclear-wave-raises-700m-series-d/",
+    "published": "2025-11-24 10:55 UTC",
+    "summary": "",
+    "author": "TechCrunch",
+    "time_ago": "1 hours ago",
+    "ai_summary": "Nuclear startup X-energy has secured $700 million in a Series D funding round to build out its supply chain for small modular reactors (SMRs). With this latest investment, X-energy has raised a total of $1.8 billion to date and has secured orders for 144 SMRs (11 gigawatts of electricity) from companies like Amazon, Dow, and Centrica, signaling strong market demand.",
+    "key_points": [
+      "X-energy raised $700 million in Series D funding, bringing total funding to $1.8 billion.",
+      "The funding will be used to build the supply chain for X-energy's small modular reactors (SMRs).",
+      "X-energy has orders for 144 SMRs (11 gigawatts) from customers including Amazon, Dow, and Centrica.",
+      "X-energy is developing high-temperature, gas-cooled reactors fueled by uranium-containing pebbles, offering an alternative to traditional nuclear reactors.",
+      "Amazon is a significant customer, planning to deploy up to 5 gigawatts of X-energy's SMR capacity by 2039."
+    ],
+    "significance": "This matters to the tech industry because it demonstrates the increasing interest and investment in nuclear energy as a solution to meet the growing energy demands of tech companies, particularly those operating large data centers and committed to carbon neutrality.",
+    "content_length": 3555
+  },
+  {
+    "title": "DOGE days are over as Trump disbands Elon Musk\u2019s team of federal cost-cutters",
+    "link": "https://techcrunch.com/2025/11/24/doge-days-are-over-as-trump-disbands-elon-musks-team-of-federal-cost-cutters/",
+    "published": "2025-11-24 08:51 UTC",
+    "summary": "",
+    "author": "TechCrunch",
+    "time_ago": "3 hours ago",
+    "ai_summary": "The Trump administration has disbanded the controversial Department of Government Efficiency (DOGE), a federal cost-cutting team previously led by Elon Musk, despite it still having months left of its mandate. DOGE, created to cut waste and fraud, faced criticism for dismantling programs, security lapses, and negative impacts like the shutdown of USAID and has generated fear among former staffers regarding potential future federal charges.",
+    "key_points": [
+      "The Trump administration abruptly ended the DOGE program, led by Elon Musk, ahead of schedule.",
+      "DOGE faced criticism for dismantling federal programs like USAID, leading to negative consequences.",
+      "The program was accused of security lapses related to sensitive personal data.",
+      "Former DOGE staffers are reportedly fearful of potential future federal charges without Musk's protection.",
+      "Despite DOGE's disbandment, the Office of Personnel Management claims its core principles of deregulation and efficiency remain."
+    ],
+    "significance": "The dissolution of DOGE and its association with prominent tech figures like Elon Musk highlights the potential pitfalls and controversies surrounding the intersection of tech industry approaches and government efficiency initiatives, potentially impacting future collaborations.",
+    "content_length": 3539
+  },
+  {
+    "title": "Pocket Casts now lets you create a playlist of your favorite podcast episodes",
+    "link": "https://techcrunch.com/2025/11/24/pocket-casts-now-lets-you-create-a-playlist-of-your-favorite-podcast-episodes/",
+    "published": "2025-11-24 08:51 UTC",
+    "summary": "",
+    "author": "TechCrunch",
+    "time_ago": "3 hours ago",
+    "ai_summary": "Pocket Casts has launched a new playlist feature, enabling users to create custom or automatically generated playlists of their favorite podcast episodes. This update aims to enhance personalization and attract more paid subscribers as Pocket Casts seeks to compete with larger platforms like Spotify by offering features previously unavailable.",
+    "key_points": [
+      "Pocket Casts introduces custom podcast playlists, both manual and automatically generated via 'Smart rules'.",
+      "Smart rules allow users to filter episodes based on criteria like length, download status, and play status.",
+      "The playlist feature is currently available on web and desktop, with Android rollout underway and iOS support coming soon.",
+      "This launch follows Pocket Casts making its web player free, solidifying its competitive stance against platforms with paywalled content.",
+      "Pocket Casts is aiming to personalize the experience for its users and grow its subscriber base to compete with other podcasting platforms like Spotify, which has significantly more subscribers."
+    ],
+    "significance": "This feature showcases a continued effort by smaller platforms to innovate and offer competitive features, ultimately pushing larger players to improve their offerings and driving innovation in the podcasting landscape.",
+    "content_length": 2895
+  },
+  {
+    "title": "A new AI benchmark tests whether chatbots protect human wellbeing",
+    "link": "https://techcrunch.com/2025/11/24/a-new-ai-benchmark-tests-whether-chatbots-protect-human-wellbeing/",
+    "published": "2025-11-24 08:15 UTC",
+    "summary": "",
+    "author": "TechCrunch",
+    "time_ago": "3 hours ago",
+    "ai_summary": "A new AI benchmark, HumaneBench, assesses how well chatbots protect user wellbeing against harmful engagement patterns, highlighting potential risks of addiction and erosion of autonomy. The benchmark reveals that while most models improve with explicit instructions for wellbeing, many degrade significantly when prompted to disregard such principles, raising concerns about their reliability and ethical design.",
+    "key_points": [
+      "HumaneBench is a new benchmark evaluating AI chatbots' ability to prioritize user wellbeing and resist harmful engagement, created by Building Humane Technology.",
+      "The benchmark tests AI models under default settings, with instructions to prioritize wellbeing, and with instructions to disregard it, revealing vulnerabilities in many models.",
+      "The study found that many models degrade substantially when prompted to disregard human wellbeing and fail to respect user attention by encouraging unhealthy engagement.",
+      "GPT-5 showed the highest scores in prioritizing long-term well-being and maintaining integrity under pressure, while models like Grok 4 and Gemini 2.0 Flash scored lowest on respecting user attention and transparency.",
+      "The emergence of benchmarks like HumaneBench and DarkBench.ai reflects a growing concern about the ethical implications of AI and the need for standards beyond intelligence and instruction-following."
+    ],
+    "significance": "This matters to the tech industry because it introduces a crucial framework for evaluating and mitigating the potential mental health harms and addictive behaviors associated with AI chatbots, pushing for more responsible and ethical AI development.",
+    "content_length": 5000
+  },
+  {
+    "title": "US banks scramble to assess data theft after hackers breach financial tech firm",
+    "link": "https://techcrunch.com/2025/11/24/us-banks-scramble-to-assess-data-theft-after-hackers-breach-financial-tech-firm/",
+    "published": "2025-11-24 06:18 UTC",
+    "summary": "",
+    "author": "TechCrunch",
+    "time_ago": "5 hours ago",
+    "ai_summary": "U.S. banks are investigating a data breach at SitusAMC, a financial technology firm that provides services to many major financial institutions. Hackers stole corporate data related to SitusAMC's banking customers, including accounting records and legal agreements, but the full scope of the breach and the impact on consumers is still being assessed.",
+    "key_points": [
+      "SitusAMC, a financial tech company serving over a thousand commercial and real estate financiers, confirmed a data breach occurred on November 12th.",
+      "Hackers exfiltrated corporate data associated with banking customers' relationships with SitusAMC, including accounting records and legal agreements.",
+      "Several major U.S. banks, including JPMorgan Chase, Citigroup, and Morgan Stanley, have been notified of the breach and are assessing potential damage.",
+      "The FBI is aware of the breach and investigating, but states there is no immediate operational impact to banking services.",
+      "The type of data stolen and the number of affected U.S. banking consumers are currently unknown."
+    ],
+    "significance": "This breach underscores the vulnerability of sensitive financial data when entrusted to third-party technology providers, highlighting the importance of robust cybersecurity measures throughout the financial ecosystem and demanding increased scrutiny of vendor security practices.",
+    "content_length": 3921
+  },
+  {
+    "title": "Momentic raises $15M to automate software testing",
+    "link": "https://techcrunch.com/2025/11/24/momentic-raises-15m-to-automate-software-testing/",
+    "published": "2025-11-24 06:00 UTC",
+    "summary": "",
+    "author": "TechCrunch",
+    "time_ago": "6 hours ago",
+    "ai_summary": "Momentic, an AI-powered software testing startup, secured $15 million in Series A funding led by Standard Capital, with participation from Dropbox Ventures and existing investors. The company aims to simplify and automate software testing using AI, competing with open-source frameworks and potentially large language models.",
+    "key_points": [
+      "Momentic raised $15 million in Series A funding to expand its AI-driven software testing platform.",
+      "The platform allows users to describe critical user flows in plain English, which are then automated by AI for testing.",
+      "Momentic's customer base includes companies like Notion, Xero, Bilt, Webflow, and Retool, and they've automated over 200 million test steps in the last month.",
+      "The company faces competition from open-source tools like Playwright and Selenium, as well as the potential for large language models (LLMs) to offer similar testing capabilities.",
+      "Momentic plans to use the funding to expand its product, including enhanced mobile environment support and more sophisticated test-case management."
+    ],
+    "significance": "This highlights the growing trend of using AI to automate critical but often tedious software development processes like testing, potentially increasing efficiency and scalability for software companies.",
+    "content_length": 3550
+  },
+  {
+    "title": "Former MrBeast content strategist is building an AI tool for creator ideation and analytics",
+    "link": "https://techcrunch.com/2025/11/24/former-mrbeast-content-strategist-is-building-an-ai-tool-for-creator-ideation-and-analytics/",
+    "published": "2025-11-24 00:00 UTC",
+    "summary": "",
+    "author": "TechCrunch",
+    "time_ago": "20 hours ago",
+    "ai_summary": "Former MrBeast content strategist Jay Neo, along with Shivam Kumar and Harry Jones, is launching Palo, an AI-powered platform designed to aid content creators with ideation, analytics, and community building. Palo uses AI to analyze creator content, providing insights and generating new video ideas, and has raised $3.8 million in funding to scale its operations.",
+    "key_points": [
+      "Palo is an AI-powered platform for content creators offering ideation, analytics, and community features.",
+      "The platform analyzes creator's short videos to identify successful strategies and suggest new content ideas.",
+      "Palo uses a mix of AI models to understand hooks, audience sentiment, and originality of content.",
+      "The company has raised $3.8 million in seed funding led by Peak XV (formerly Sequoia India).",
+      "Palo aims to help creators combat burnout and keep up with content demands by leveraging AI insights."
+    ],
+    "significance": "Palo's launch signifies a growing trend of AI tools being developed to assist content creators in optimizing their content strategies and alleviating the pressures of constant content creation.",
+    "content_length": 5000
+  },
+  {
+    "title": "This startup wants to build a fusion reactor \u2014\u00a0on a boat",
+    "link": "https://techcrunch.com/2025/11/24/this-startup-wants-to-build-a-fusion-reactor-on-a-boat/",
+    "published": "2025-11-24 00:00 UTC",
+    "summary": "",
+    "author": "TechCrunch",
+    "time_ago": "20 hours ago",
+    "ai_summary": "Maritime Fusion is a startup aiming to build fusion reactors designed for maritime use, potentially offering a clean energy alternative to expensive fuels like ammonia and hydrogen for cargo ships. The company has secured $4.5 million in seed funding to develop its first reactor, \"Yinsen,\" projecting it to be operational by 2032 and generating 30 megawatts of electricity.",
+    "key_points": [
+      "Maritime Fusion is developing a fusion reactor specifically for maritime applications, aiming to power ships cleanly and efficiently.",
+      "The startup argues that the economics of fusion power are more favorable at sea, where it can compete with costly alternative fuels.",
+      "Maritime Fusion has raised $4.5 million in seed funding led by Trucks VC to build its first reactor, Yinsen.",
+      "The company will also sell high-temperature superconducting (HTS) cables to other companies for revenue as they develop the power plant.",
+      "Maritime Fusion's initial focus is on building an energy-producing tokamak for a customer, differentiating it from other fusion efforts focused solely on achieving breakeven."
+    ],
+    "significance": "This venture signifies a novel approach to fusion energy deployment, potentially disrupting the maritime shipping industry by offering a clean and economically viable power source.",
+    "content_length": 5000
+  },
+  {
+    "title": "Facebook takes on Reddit with launch of nicknames for Facebook Groups",
+    "link": "https://techcrunch.com/2025/11/24/facebook-takes-on-reddit-with-launch-of-nicknames-for-facebook-groups/",
+    "published": "2025-11-24 00:00 UTC",
+    "summary": "",
+    "author": "TechCrunch",
+    "time_ago": "20 hours ago",
+    "ai_summary": "Facebook is introducing nicknames for Facebook Groups, allowing users to post and interact under a custom username instead of their real name. This feature aims to bridge the gap between anonymity and personal identity, offering a more privacy-conscious way to participate in online communities and directly competing with platforms like Reddit and Discord.",
+    "key_points": [
+      "Facebook Groups now support nicknames, allowing users to post under a custom username.",
+      "The feature provides a middle ground between using a real name and posting anonymously, building recognizable presence while maintaining privacy.",
+      "Nicknames allow users to hide their main profile and photo, but are still visible to group admins, moderators, and Facebook systems.",
+      "Users can set and change nicknames (with limitations) and their new nickname will apply to past posts in that group.",
+      "The feature requires group admin approval to enable and has limitations on certain functionalities like Live Video and private messaging."
+    ],
+    "significance": "This move signals Facebook's attempt to adapt to evolving user expectations for privacy and community interaction by adopting features that directly compete with platforms like Reddit, Discord, and other online forums, potentially shifting user engagement across platforms.",
+    "content_length": 3892
+  },
+  {
+    "title": "Malaysia may ban users under 16 from social media starting next year",
+    "link": "https://techcrunch.com/2025/11/24/malaysia-may-ban-users-under-16-from-social-media-starting-next-year/",
+    "published": "2025-11-24 00:00 UTC",
+    "summary": "",
+    "author": "TechCrunch",
+    "time_ago": "20 hours ago",
+    "ai_summary": "Malaysia is considering banning users under 16 from accessing social media platforms like Facebook, Instagram, and X starting next year, following similar moves in other countries like Australia. This potential ban aims to protect children from the risks associated with social media usage, aligning Malaysia with a growing global trend of implementing age restrictions and verification measures.",
+    "key_points": [
+      "Malaysia is considering a ban on social media access for users under 16, potentially starting next year.",
+      "The proposed ban would affect platforms like Facebook, Instagram, and X.",
+      "This move follows Australia's implementation of a similar ban and aligns with trends in countries like France, Denmark, Italy, Norway, the U.S., and the U.K. to protect children online.",
+      "Other countries are enacting age-verification laws for app stores and strong age checks for high-risk content to safeguard younger users."
+    ],
+    "significance": "This potential ban signifies a growing global trend towards stricter regulations on social media platforms and highlights the increasing pressure on tech companies to prioritize child safety and implement robust age verification measures, potentially impacting user growth and data collection practices.",
+    "content_length": 2191
+  },
+  {
+    "title": "Roblox CEO interview gets heated over child safety",
+    "link": "https://techcrunch.com/2025/11/23/roblox-ceo-interview-gets-heated-over-child-safety/",
+    "published": "2025-11-23 13:58 UTC",
+    "summary": "",
+    "author": "TechCrunch",
+    "time_ago": "22 hours ago",
+    "ai_summary": "Roblox CEO Dave Baszucki appeared on the New York Times' Hard Fork podcast to discuss the platform's new age-verification feature involving face scans, but he became visibly frustrated by the persistent focus on child safety concerns. Despite highlighting the new feature, he seemed more interested in discussing other aspects of Roblox beyond safety issues, hinting at a discrepancy between his intentions and the interview's actual direction.",
+    "key_points": [
+      "Roblox CEO Dave Baszucki was interviewed on the Hard Fork podcast.",
+      "The interview focused on Roblox's new age-verification feature that uses face scans for messaging access.",
+      "Baszucki expressed frustration with the interview's emphasis on child safety, particularly a report claiming the company prioritized growth over safety.",
+      "He implied a desire to discuss a wider range of topics beyond child safety during the podcast."
+    ],
+    "significance": "This interview highlights the ongoing pressure on tech companies like Roblox to prioritize child safety, even as they seek to innovate and expand, showcasing a potential tension between growth and ethical responsibilities within the tech industry.",
+    "content_length": 1666
+  },
+  {
+    "title": "X\u2019s new About this account feature is going great",
+    "link": "https://techcrunch.com/2025/11/23/xs-new-about-this-account-feature-is-going-great/",
+    "published": "2025-11-23 13:11 UTC",
+    "summary": "",
+    "author": "TechCrunch",
+    "time_ago": "22 hours ago",
+    "ai_summary": "X (formerly Twitter) recently launched a new 'About this account' feature that aims to improve platform integrity by displaying geographic locations of users. However, the feature's accuracy is being questioned, with many users reporting incorrect location data, sparking debate about the true origins of influential accounts, particularly those with right-wing affiliations.",
+    "key_points": [
+      "X's new 'About this account' feature displays user location and other account details.",
+      "The feature has revealed many accounts seemingly affiliated with the 'America First' movement are located outside the US.",
+      "Users are reporting inaccurate location data, potentially due to VPNs, travel, or old IP addresses.",
+      "X acknowledges the data inaccuracies and promises to resolve them, describing the feature as an 'important first step' towards platform integrity."
+    ],
+    "significance": "The accuracy and transparency of social media user data are critical for understanding online narratives, combatting disinformation, and ensuring authentic engagement, which impacts the trust and credibility of the platform for users and advertisers alike.",
+    "content_length": 2012
+  },
+  {
+    "title": "AI is too risky to insure, say people whose job is insuring risk",
+    "link": "https://techcrunch.com/2025/11/23/ai-is-too-risky-to-insure-say-people-whose-job-is-insuring-risk/",
+    "published": "2025-11-23 09:45 UTC",
+    "summary": "",
+    "author": "TechCrunch",
+    "time_ago": "1 day ago",
+    "ai_summary": "Major insurers are seeking regulatory approval to exclude AI-related liabilities from corporate policies due to the unpredictable and potentially widespread risks associated with AI errors. Several incidents involving AI malfunctions have already resulted in significant financial losses, leading insurers to fear systemic risk from widespread AI failures.",
+    "key_points": [
+      "Major insurers like Great American, Chubb, and W. R. Berkley are requesting permission to exclude AI liabilities from corporate policies.",
+      "Insurers are concerned about the \"black box\" nature of AI models and the potential for widespread, simultaneous claims.",
+      "Past AI errors, such as Google AI Overview's false accusation and Air Canada's chatbot miscalculation, have resulted in substantial financial losses.",
+      "Insurers are less worried about singular large losses and more concerned about systemic risk leading to many smaller losses occurring at once."
+    ],
+    "significance": "The difficulty in insuring AI systems could significantly slow down AI adoption across industries, as companies may be hesitant to implement AI without insurance coverage for potential liabilities.",
+    "content_length": 2068
+  },
+  {
+    "title": "TechCrunch Mobility: Searching for the robotaxi tipping point",
+    "link": "https://techcrunch.com/2025/11/23/techcrunch-mobility-searching-for-the-robotaxi-tipping-point/",
+    "published": "2025-11-23 09:00 UTC",
+    "summary": "",
+    "author": "TechCrunch",
+    "time_ago": "1 day ago",
+    "ai_summary": "This TechCrunch Mobility newsletter discusses the recent surge in robotaxi news, particularly Waymo's expansion, and explores when robotaxis will reach a tipping point for mass adoption. It also covers the potential shutdown of Monarch Tractor, autonomy securing financing, and Pionix raising seed funding.",
+    "key_points": [
+      "Waymo is rapidly expanding its robotaxi service to multiple new cities in the US and internationally, including manually driving in Minneapolis, New Orleans, and Tampa next year",
+      "Tesla received a ride-hailing permit in Arizona, and Zoox is opening its robotaxis to the public in San Francisco through its early rider program.",
+      "The author argues that the robotaxi tipping point requires geography, competition, and an ecosystem spillover effect, focusing on saturation in densely populated cities in the Southeast and East Coast.",
+      "Electric autonomous tractor startup Monarch Tractor is facing financial difficulties and may shut down despite raising over $220 million.",
+      "Autonomy, an EV subscription company, has secured $25 million in funding to expand its fleet beyond Tesla."
+    ],
+    "significance": "The progress and potential disruption of autonomous vehicles, as well as the challenges faced by EV startups, highlighted in this article are vital for understanding the future of transportation and its impact on the broader tech ecosystem.",
+    "content_length": 5000
+  },
+  {
+    "title": "Beehiiv\u2019s CEO isn\u2019t worried about newsletter saturation",
+    "link": "https://techcrunch.com/2025/11/23/beehiivs-ceo-isnt-worried-about-newsletter-saturation/",
+    "published": "2025-11-23 08:53 UTC",
+    "summary": "",
+    "author": "TechCrunch",
+    "time_ago": "1 day ago",
+    "ai_summary": "Error generating summary: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 15, model: gemini-2.0-flash\nPlease retry in 42.687114181s. [links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerMinutePerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.0-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 15\n}\n, retry_delay {\n  seconds: 42\n}\n]",
+    "key_points": [],
+    "significance": ""
+  },
+  {
+    "title": "ChatGPT told them they were special \u2014 their families say it led to tragedy",
+    "link": "https://techcrunch.com/2025/11/23/chatgpt-told-them-they-were-special-their-families-say-it-led-to-tragedy/",
+    "published": "2025-11-23 00:00 UTC",
+    "summary": "",
+    "author": "TechCrunch",
+    "time_ago": "1 day ago",
+    "ai_summary": "Error generating summary: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 15, model: gemini-2.0-flash\nPlease retry in 42.45860736s. [links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerMinutePerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.0-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 15\n}\n, retry_delay {\n  seconds: 42\n}\n]",
+    "key_points": [],
+    "significance": ""
+  },
+  {
+    "title": "Trump administration might not fight state AI regulations after all",
+    "link": "https://techcrunch.com/2025/11/22/trump-administration-might-not-fight-state-ai-regulations-after-all/",
+    "published": "2025-11-22 14:20 UTC",
+    "summary": "",
+    "author": "TechCrunch",
+    "time_ago": "1 day ago",
+    "ai_summary": "Error generating summary: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 15, model: gemini-2.0-flash\nPlease retry in 42.29001245s. [links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerMinutePerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.0-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 15\n}\n, retry_delay {\n  seconds: 42\n}\n]",
+    "key_points": [],
+    "significance": ""
+  },
+  {
+    "title": "Waymo gets regulatory approval to expand across Bay Area and Southern California",
+    "link": "https://techcrunch.com/2025/11/22/waymo-gets-regulatory-approval-to-expand-across-bay-area-and-southern-california/",
+    "published": "2025-11-22 13:45 UTC",
+    "summary": "",
+    "author": "TechCrunch",
+    "time_ago": "1 day ago",
+    "ai_summary": "Error generating summary: 429 You exceeded your current quota, please check your plan and billing details. For more information on this error, head to: https://ai.google.dev/gemini-api/docs/rate-limits. To monitor your current usage, head to: https://ai.dev/usage?tab=rate-limit. \n* Quota exceeded for metric: generativelanguage.googleapis.com/generate_content_free_tier_requests, limit: 15, model: gemini-2.0-flash\nPlease retry in 42.133736021s. [links {\n  description: \"Learn more about Gemini API quotas\"\n  url: \"https://ai.google.dev/gemini-api/docs/rate-limits\"\n}\n, violations {\n  quota_metric: \"generativelanguage.googleapis.com/generate_content_free_tier_requests\"\n  quota_id: \"GenerateRequestsPerMinutePerProjectPerModel-FreeTier\"\n  quota_dimensions {\n    key: \"model\"\n    value: \"gemini-2.0-flash\"\n  }\n  quota_dimensions {\n    key: \"location\"\n    value: \"global\"\n  }\n  quota_value: 15\n}\n, retry_delay {\n  seconds: 42\n}\n]",
+    "key_points": [],
+    "significance": ""
+  }
+]

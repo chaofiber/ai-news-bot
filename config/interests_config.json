@@ -1,0 +1,81 @@
+{
+  "interests": [
+    {
+      "topic": "robotics",
+      "keywords": [
+        "robot", "robotics", "autonomous", "automation", "robotic",
+        "boston dynamics", "agility robotics", "figure", "tesla bot",
+        "optimus", "ros", "robot operating system"
+      ],
+      "priority": "high"
+    },
+    {
+      "topic": "humanoid_robots",
+      "keywords": [
+        "humanoid", "bipedal", "android", "human-like robot",
+        "figure robot", "tesla optimus", "atlas", "digit",
+        "anthropomorphic", "human robot"
+      ],
+      "priority": "high"
+    },
+    {
+      "topic": "robotics_startups",
+      "keywords": [
+        "robotics startup", "robot company", "funding round", "series",
+        "seed funding", "venture capital", "robotics investment",
+        "robotics founder", "robotics ceo", "acquired", "acquisition"
+      ],
+      "priority": "high"
+    },
+    {
+      "topic": "autonomous_vehicles",
+      "keywords": [
+        "self-driving", "autonomous vehicle", "robotaxi", "waymo",
+        "cruise", "zoox", "autopilot", "full self-driving", "fsd",
+        "lidar", "computer vision", "adas"
+      ],
+      "priority": "medium"
+    },
+    {
+      "topic": "ai_hardware",
+      "keywords": [
+        "nvidia", "gpu", "tpu", "edge ai", "neural processor",
+        "ai chip", "inference", "training hardware", "cuda"
+      ],
+      "priority": "medium"
+    },
+    {
+      "topic": "industrial_automation",
+      "keywords": [
+        "warehouse robot", "logistics", "manufacturing", "cobot",
+        "collaborative robot", "pick and place", "agv", "amr",
+        "automated guided vehicle", "autonomous mobile robot"
+      ],
+      "priority": "medium"
+    }
+  ],
+  "exclude_topics": [
+    {
+      "topic": "social_media",
+      "keywords": ["facebook", "instagram", "twitter", "x platform", "tiktok", "snapchat"]
+    },
+    {
+      "topic": "crypto",
+      "keywords": ["bitcoin", "ethereum", "cryptocurrency", "blockchain", "nft", "defi"]
+    }
+  ],
+  "scoring": {
+    "high_priority_weight": 3,
+    "medium_priority_weight": 2,
+    "low_priority_weight": 1,
+    "title_match_multiplier": 2,
+    "summary_match_multiplier": 1.5,
+    "exclude_penalty": -10,
+    "minimum_score_threshold": 3
+  },
+  "notification_settings": {
+    "high_priority_alert": true,
+    "daily_digest": true,
+    "weekly_summary": false
+  }
+}

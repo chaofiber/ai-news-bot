@@ -1,0 +1,48 @@
+[
+  {
+    "title": "TechCrunch Mobility: Searching for the robotaxi tipping point",
+    "link": "https://techcrunch.com/2025/11/23/techcrunch-mobility-searching-for-the-robotaxi-tipping-point/",
+    "published": "2025-11-23 09:00 UTC",
+    "summary": "",
+    "author": "TechCrunch",
+    "time_ago": "1 hours ago",
+    "ai_summary": "This TechCrunch Mobility newsletter discusses the recent surge in robotaxi news, particularly Waymo's expansion plans, and explores when robotaxis will reach a tipping point of mass adoption that fundamentally changes transportation. The author argues that while progress is being made, factors like geographic saturation, competition, and ecosystem spillover are crucial for achieving widespread acceptance.",
+    "key_points": [
+      "Waymo is significantly expanding its robotaxi testing and deployment across numerous U.S. cities, including plans to offer commercial rides internationally in London and Tokyo.",
+      "Tesla received a ride-hailing permit in Arizona, and Zoox is opening its robotaxi service to the public in San Francisco through its early rider program.",
+      "The author identifies geography (saturation in diverse cities), competition, and the creation of a startup ecosystem around robotaxis as key factors determining when robotaxis reach a tipping point.",
+      "Electric autonomous tractor startup Monarch Tractor is facing potential shutdown despite raising $220 million, highlighting the challenges in the autonomous vehicle space.",
+      "Autonomy, an EV subscription service, secured $25 million to expand its fleet beyond Tesla, including Volvo and Polestar vehicles."
+    ],
+    "significance": "The developments in robotaxis and autonomous vehicles are pushing the boundaries of transportation technology and potentially disrupting existing industries, requiring tech companies and investors to carefully evaluate market readiness and competitive landscape.",
+    "content_length": 5000,
+    "relevance_score": 21.0,
+    "relevance_matches": {
+      "matched_topics": [
+        {
+          "topic": "robotics",
+          "priority": "high",
+          "score": 3
+        },
+        {
+          "topic": "autonomous_vehicles",
+          "priority": "medium",
+          "score": 18.0
+        }
+      ],
+      "matched_keywords": [
+        "autonomous",
+        "Waymo",
+        "robotaxi",
+        "Zoox",
+        "autonomous vehicle"
+      ],
+      "exclude_matches": [],
+      "score_breakdown": {
+        "robotics": 3,
+        "autonomous_vehicles": 18.0
+      }
+    },
+    "is_relevant": true
+  }
+]
