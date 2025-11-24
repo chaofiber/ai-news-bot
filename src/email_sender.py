@@ -225,7 +225,7 @@ class EmailSender:
                 <div class="section">
                     <h2 class="section-title">🔥 High Priority Articles</h2>
             """
-            for post in high_relevance[:5]:
+            for post in high_relevance[:10]:  # Show up to 10 high priority posts
                 html += self._create_post_html(post, 'high')
             html += "</div>"
         
@@ -234,8 +234,19 @@ class EmailSender:
                 <div class="section">
                     <h2 class="section-title">📊 Worth Reading</h2>
             """
-            for post in medium_relevance[:5]:
+            for post in medium_relevance[:10]:  # Show up to 10 medium priority posts  
                 html += self._create_post_html(post, 'medium')
+            html += "</div>"
+        
+        # Show remaining posts if any
+        low_relevance = [p for p in relevant_posts if p.get('relevance_score', 0) < 5]
+        if low_relevance:
+            html += """
+                <div class="section">
+                    <h2 class="section-title">📌 Other Articles</h2>
+            """
+            for post in low_relevance[:10]:  # Show up to 10 more posts
+                html += self._create_post_html(post, 'normal')
             html += "</div>"
         
         if not relevant_posts:

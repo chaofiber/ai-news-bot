@@ -1,0 +1,252 @@
+
+        <!DOCTYPE html>
+        <html>
+        <head>
+            <meta charset="UTF-8">
+            <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <style>
+                body {
+                    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+                    line-height: 1.6;
+                    color: #333;
+                    max-width: 800px;
+                    margin: 0 auto;
+                    padding: 20px;
+                    background-color: #f5f5f5;
+                }
+                .container {
+                    background-color: white;
+                    border-radius: 10px;
+                    padding: 30px;
+                    box-shadow: 0 2px 10px rgba(0,0,0,0.1);
+                }
+                .header {
+                    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+                    color: white;
+                    padding: 30px;
+                    border-radius: 10px 10px 0 0;
+                    margin: -30px -30px 30px -30px;
+                    text-align: center;
+                }
+                h1 {
+                    margin: 0;
+                    font-size: 28px;
+                    font-weight: 600;
+                }
+                .date {
+                    font-size: 14px;
+                    opacity: 0.9;
+                    margin-top: 5px;
+                }
+                .stats {
+                    display: flex;
+                    justify-content: space-around;
+                    margin: 30px 0;
+                    padding: 20px;
+                    background-color: #f8f9fa;
+                    border-radius: 8px;
+                }
+                .stat {
+                    text-align: center;
+                }
+                .stat-number {
+                    font-size: 32px;
+                    font-weight: bold;
+                    color: #667eea;
+                }
+                .stat-label {
+                    font-size: 12px;
+                    color: #666;
+                    text-transform: uppercase;
+                    letter-spacing: 1px;
+                }
+                .section {
+                    margin: 30px 0;
+                }
+                .section-title {
+                    font-size: 20px;
+                    font-weight: 600;
+                    color: #333;
+                    margin-bottom: 20px;
+                    padding-bottom: 10px;
+                    border-bottom: 2px solid #667eea;
+                }
+                .post {
+                    margin: 20px 0;
+                    padding: 20px;
+                    background-color: #f8f9fa;
+                    border-radius: 8px;
+                    border-left: 4px solid #667eea;
+                }
+                .post-high {
+                    border-left-color: #28a745;
+                    background-color: #f0fdf4;
+                }
+                .post-medium {
+                    border-left-color: #ffc107;
+                    background-color: #fffef0;
+                }
+                .post-title {
+                    font-size: 18px;
+                    font-weight: 600;
+                    margin-bottom: 10px;
+                    color: #2c3e50;
+                }
+                .post-meta {
+                    font-size: 12px;
+                    color: #666;
+                    margin-bottom: 10px;
+                }
+                .post-summary {
+                    font-size: 14px;
+                    color: #555;
+                    margin: 10px 0;
+                    line-height: 1.5;
+                }
+                .post-link {
+                    display: inline-block;
+                    margin-top: 10px;
+                    padding: 8px 16px;
+                    background-color: #667eea;
+                    color: white;
+                    text-decoration: none;
+                    border-radius: 5px;
+                    font-size: 14px;
+                    transition: background-color 0.3s;
+                }
+                .post-link:hover {
+                    background-color: #5a67d8;
+                }
+                .topics {
+                    margin-top: 8px;
+                }
+                .topic-badge {
+                    display: inline-block;
+                    padding: 4px 8px;
+                    margin: 2px;
+                    background-color: #e9ecef;
+                    color: #495057;
+                    border-radius: 4px;
+                    font-size: 12px;
+                }
+                .footer {
+                    margin-top: 40px;
+                    padding-top: 20px;
+                    border-top: 1px solid #dee2e6;
+                    text-align: center;
+                    font-size: 12px;
+                    color: #666;
+                }
+                .no-posts {
+                    text-align: center;
+                    padding: 40px;
+                    color: #666;
+                    font-style: italic;
+                }
+                .score {
+                    display: inline-block;
+                    padding: 2px 8px;
+                    border-radius: 12px;
+                    font-size: 11px;
+                    font-weight: bold;
+                    margin-left: 10px;
+                }
+                .score-high {
+                    background-color: #28a745;
+                    color: white;
+                }
+                .score-medium {
+                    background-color: #ffc107;
+                    color: #333;
+                }
+            </style>
+        </head>
+        <body>
+            <div class="container">
+                <div class="header">
+                    <h1>🤖 TechCrunch Daily Digest</h1>
+                    <div class="date">November 24, 2025</div>
+                </div>
+                
+                <div class="stats">
+                    <div class="stat">
+                        <div class="stat-number">4</div>
+                        <div class="stat-label">Relevant Posts</div>
+                    </div>
+                    <div class="stat">
+                        <div class="stat-number">3</div>
+                        <div class="stat-label">High Priority</div>
+                    </div>
+                    <div class="stat">
+                        <div class="stat-number">4</div>
+                        <div class="stat-label">Topics Covered</div>
+                    </div>
+                </div>
+        
+                <div class="section">
+                    <h2 class="section-title">🔥 High Priority Articles</h2>
+            
+            <div class="post post-high">
+                <div class="post-title">
+                    Boston Dynamics unveils new Atlas humanoid robot
+                    <span class="score score-high">Score: 28.5</span>
+                </div>
+                <div class="post-meta">
+                    📅 2024-11-24 10:00 UTC | 
+                    ✍️ TechCrunch
+                </div>
+        <div class="topics"><span class="topic-badge">Robotics</span><span class="topic-badge">Humanoid Robots</span></div><div class="post-summary">Boston Dynamics revealed its latest Atlas humanoid robot featuring advanced bipedal locomotion and AI-powered perception systems. The robot demonstrates unprecedented agility and can perform complex tasks in industrial environments.</div><div class="post-summary"><strong>Key Points:</strong><ul style="margin: 5px 0; padding-left: 20px;"><li style="font-size: 13px; margin: 3px 0;">New hydraulic actuators provide 50% more power</li><li style="font-size: 13px; margin: 3px 0;">AI vision system can identify and manipulate objects</li><li style="font-size: 13px; margin: 3px 0;">Battery life extended to 4 hours of continuous operation</li></ul></div>
+                <a href="https://techcrunch.com/2024/example/atlas-robot" class="post-link" target="_blank">Read Full Article →</a>
+            </div>
+        
+            <div class="post post-high">
+                <div class="post-title">
+                    Waymo expands robotaxi service to 10 new cities
+                    <span class="score score-high">Score: 22.0</span>
+                </div>
+                <div class="post-meta">
+                    📅 2024-11-24 08:30 UTC | 
+                    ✍️ TechCrunch Staff
+                </div>
+        <div class="topics"><span class="topic-badge">Autonomous Vehicles</span><span class="topic-badge">Robotics</span></div><div class="post-summary">Waymo announced a major expansion of its autonomous vehicle service, bringing robotaxis to 10 new US cities. The expansion represents the largest rollout of autonomous vehicles to date.</div><div class="post-summary"><strong>Key Points:</strong><ul style="margin: 5px 0; padding-left: 20px;"><li style="font-size: 13px; margin: 3px 0;">Service will launch in Seattle, Boston, and Chicago first</li><li style="font-size: 13px; margin: 3px 0;">Fleet size increasing to 10,000 vehicles</li><li style="font-size: 13px; margin: 3px 0;">Partnership with Uber for seamless integration</li></ul></div>
+                <a href="https://techcrunch.com/2024/example/waymo-expansion" class="post-link" target="_blank">Read Full Article →</a>
+            </div>
+        
+            <div class="post post-high">
+                <div class="post-title">
+                    Robotics startup Figure raises $500M at $5B valuation
+                    <span class="score score-high">Score: 31.0</span>
+                </div>
+                <div class="post-meta">
+                    📅 2024-11-24 06:00 UTC | 
+                    ✍️ Mary Ann Azevedo
+                </div>
+        <div class="topics"><span class="topic-badge">Robotics Startups</span><span class="topic-badge">Humanoid Robots</span></div><div class="post-summary">Figure, a humanoid robotics startup, closed a massive $500M Series C round led by Microsoft and OpenAI. The company plans to accelerate development of its general-purpose humanoid robots.</div><div class="post-summary"><strong>Key Points:</strong><ul style="margin: 5px 0; padding-left: 20px;"><li style="font-size: 13px; margin: 3px 0;">Funding led by Microsoft, OpenAI, and Jeff Bezos</li><li style="font-size: 13px; margin: 3px 0;">Valuation jumped from $1B to $5B in one year</li><li style="font-size: 13px; margin: 3px 0;">Plans to deploy 1,000 robots by end of 2025</li></ul></div>
+                <a href="https://techcrunch.com/2024/example/figure-funding" class="post-link" target="_blank">Read Full Article →</a>
+            </div>
+        </div>
+                <div class="section">
+                    <h2 class="section-title">📊 Worth Reading</h2>
+            
+            <div class="post post-medium">
+                <div class="post-title">
+                    Tesla Optimus robot demonstrates new capabilities
+                    <span class="score score-medium">Score: 8.5</span>
+                </div>
+                <div class="post-meta">
+                    📅 2024-11-23 22:00 UTC | 
+                    ✍️ TechCrunch
+                </div>
+        <div class="topics"><span class="topic-badge">Humanoid Robots</span><span class="topic-badge">Autonomous Vehicles</span></div><div class="post-summary">Tesla showcased new capabilities of its Optimus humanoid robot, including ability to sort objects autonomously and navigate complex environments using neural networks.</div><div class="post-summary"><strong>Key Points:</strong><ul style="margin: 5px 0; padding-left: 20px;"><li style="font-size: 13px; margin: 3px 0;">Demonstrated autonomous object sorting</li><li style="font-size: 13px; margin: 3px 0;">Uses same FSD neural network as Tesla cars</li><li style="font-size: 13px; margin: 3px 0;">Production timeline moved to 2025</li></ul></div>
+                <a href="https://techcrunch.com/2024/example/tesla-optimus" class="post-link" target="_blank">Read Full Article →</a>
+            </div>
+        </div>
+                <div class="footer">
+                    <p>Generated by TechCrunch AI News Bot</p>
+                    <p>Personalized for: Robotics, Humanoid Robots, Autonomous Vehicles</p>
+                    <p><a href="https://github.com/chaofiber/ai-news-bot" style="color: #667eea;">View on GitHub</a></p>
+                </div>
+            </div>
+        </body>
+        </html>
+        
