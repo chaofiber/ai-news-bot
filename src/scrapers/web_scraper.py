@@ -35,7 +35,11 @@ class TechCrunchScraper:
             response = self.session.get(url, timeout=10)
             response.raise_for_status()
             
-            soup = BeautifulSoup(response.text, 'lxml')
+            # Try lxml first, fallback to html.parser if not available
+            try:
+                soup = BeautifulSoup(response.text, 'lxml')
+            except:
+                soup = BeautifulSoup(response.text, 'html.parser')
             posts = []
             
             # Try multiple possible selectors
