@@ -16,7 +16,16 @@ class EmailSender:
         self.password = os.getenv('EMAIL_PASSWORD', '')
         self.recipient = os.getenv('EMAIL_RECIPIENT', 'recipient@example.com')
         self.smtp_server = os.getenv('SMTP_SERVER', 'smtp.gmail.com')
-        self.smtp_port = int(os.getenv('SMTP_PORT', '587'))
+        # Handle SMTP_PORT with better error handling
+        smtp_port_str = os.getenv('SMTP_PORT', '587')
+        if not smtp_port_str or smtp_port_str.strip() == '':
+            self.smtp_port = 587  # Default Gmail port
+        else:
+            try:
+                self.smtp_port = int(smtp_port_str)
+            except ValueError:
+                print(f"Warning: Invalid SMTP_PORT '{smtp_port_str}', using default 587")
+                self.smtp_port = 587
     
     def create_html_email(self, posts: List[Dict]) -> str:
         """Create beautiful HTML email content"""
