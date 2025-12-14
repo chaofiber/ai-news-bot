@@ -25,7 +25,7 @@ class GeminiSummarizer:
         genai.configure(api_key=api_key)
         
         # Initialize the model (using Gemini 2.0 Flash for efficiency)
-        self.model = genai.GenerativeModel('gemini-2.0-flash')
+        self.model = genai.GenerativeModel('gemini-2.5-flash-lite')
         
         # Headers for web scraping
         self.headers = {
