@@ -21,7 +21,6 @@ for model in genai.list_models():
         print(f"  - {model.name}")
 
 # Try the working model
-print("\nTesting with gemini-1.5-flash-latest...")
-model = genai.GenerativeModel('gemini-1.5-flash-latest')
+model = genai.GenerativeModel('gemini-2.5-flash-lite')
 response = model.generate_content("Say hello in one sentence")
 print(f"Response: {response.text}")
